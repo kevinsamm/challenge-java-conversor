@@ -5,4 +5,4 @@ Pequeño programa hecho en java para el Challenge Backend 01 de ONE y Alura.
 - La conversión de monedas puede ser de Soles a Dólares, Euros, Libras, Yenes o Wones, y viceversa.
 - La conversión de temperatura puede ser entre Celsius, Fahrenheit y Kelvin.
 ## Herramientas utilizadas
-- ´IDE´: IntelliJ IDEA
+- `IDE`: IntelliJ IDEA
